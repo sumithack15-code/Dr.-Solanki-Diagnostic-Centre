@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Solanki’s Diagnostic Centre",
+  "description": "Premier Radiology & Pathology Centre in Sarita Vihar, New Delhi. Ultrasound, OBGY scans, 3D/4D/5D, Color Doppler, Digital X-Ray, ECG, 2D Echo and comprehensive pathology investigations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
